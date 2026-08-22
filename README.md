@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/Ra-Studios">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9&v=89012" alt="GitHub Stats" height="165"/>
   </a>
   <a href="https://github.com/Ra-Studios">
     <img src="https://streak-stats.demolab.com/?user=Ra-Studios&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=9D4EDD&currStreakLabel=00D2FF" alt="GitHub Streak" height="165"/>
@@ -90,13 +90,13 @@
 
 <p align="center">
   <a href="https://github.com/Ra-Studios">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&v=89012" alt="Top Languages" height="165"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ra-Studios">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-Studios&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=9D4EDD&point=FFFFFF" alt="Activity Graph" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-Studios&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=9D4EDD&point=FFFFFF&v=89012" alt="Activity Graph" width="90%"/>
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 <div align="center">
 
 <a href="https://github.com/Ra-Studios/Font_Styles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9" alt="Font_Styles Pin"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9&v=89012" alt="Font_Styles Pin"/>
 </a>
 
 <br/><br/>
@@ -117,21 +117,5 @@
 <marquee scrollamount="6" direction="left" width="85%" style="color: #9D4EDD;">
   ✦ 𝕬 𝖈𝖚𝖗𝖆𝖙𝖊𝖉 𝖆𝖗𝖈𝖍𝖎𝖛𝖊 𝖔𝖋 1,097+ 𝖙𝖞𝖕𝖔𝖌𝖗𝖆𝖕𝖍𝖞 𝖕𝖆𝖈𝖐𝖆𝖌𝖊𝖘, 𝖔𝖗𝖌𝖆𝖓𝖎𝖟𝖊𝖉 𝖆𝖑𝖕𝖍𝖆𝖇𝖊𝖙𝖎𝖈𝖆𝖑𝖑𝖞 𝖋𝖔𝖗 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗𝖘 𝖆𝖓𝖉 𝖉𝖊𝖘𝖎𝖌𝖓𝖊𝖗𝖘. ✦
 </marquee>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔗 Connect With Me
-
-<p>
-  <a href="https://github.com/Ra-Studios">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,15,1&height=120&section=footer" width="100%"/>
 
 </div>
