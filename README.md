@@ -1,26 +1,23 @@
-<!-- ULTIMATE GITHUB-REAL README -->
+<!-- ULTIMATE WORKING GITHUB README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=RA%20STUDIOS%20%7C%20CREATIVE%20STUDIO%20%26%20DEVELOPER&fontSize=45&fontColor=00f0ff&animation=fadeIn&fontAlignY=55" alt="Banner" />
+<!-- 🌌 MASSIVE ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,22,28,30&height=260&section=header&text=RA-STUDIOS&fontSize=85&fontAlignY=38&animation=twinkling&fontColor=00f2fe&desc=%E2%96%B8+SYSTEM+INITIALIZED+%E2%80%A2+CREATIVE+ENGINE+ONLINE&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ra-Studios!+%F0%9F%91%8B;Creative+Studio+%26+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Building+Modern+Experiences+%E2%9C%A8;Welcome+to+my+Dimension+%F0%9F%8C%8C" alt="Typing" />
+<!-- 💻 DYNAMIC TYPING -->
+<a href="https://github.com/Ra-Studios">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=800&lines=%3E_Architecting+Next-Gen+Digital+Experiences;%3E_Master+Curator+of+1,097+Typography+Assets;%3E_Pushing+Web+Development+To+The+Edge;%3E_Status%3A+Online+%26+Available+For+Collaboration;>_Welcome+to+the+Ultimate+Dimension+_" alt="Dynamic Terminal Typing" />
+</a>
 
-<br><br>
+<br/>
 
-<!-- VISITOR COUNTER -->
-<a href="https://github.com/Ra-Studios"><img src="https://komarev.com/ghpvc/?username=Ra-Studios&label=PROFILE+VISITORS&color=B829F7&style=for-the-badge&logo=github" alt="Visitors" /></a>
+<!-- 👀 VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=Ra-Studios&label=GLOBAL+RADAR+SCANS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 
-<br>
+<br/><br/>
 
-<!-- STATUS PILLS -->
-<img src="https://img.shields.io/badge/Status-BUILDING-00f0ff?style=for-the-badge&logo=statuspal&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Mindset-ALWAYS+LEARNING-b829f7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mindset" />
-<img src="https://img.shields.io/badge/Vibe-CYBERPUNK-8899aa?style=for-the-badge&logo=nebular&logoColor=00f0ff" alt="Vibe" />
-
-<br><br>
-
-<!-- SKILL ICONS -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,python,figma,blender,github,vercel,docker" alt="Skills" />
+<!-- 🏆 TROPHY GRID -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ra-Studios&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 
 </div>
 
@@ -28,43 +25,23 @@
 
 <div align="center">
 
-## 🌌 ABOUT ME
-
-</div>
-
-<div align="left">
-
-- 🔭 **Currently Working On:** Modern web experiences, interactive UI libraries, open-source font collections (`Font_Styles`).
-- 🌱 **Currently Learning:** Three.js, WebGL, generative design, design-system architecture.
-- 💬 **Ask Me About:** Full-stack dev, UI/UX, typography, font assets, neon-cyberpunk aesthetics.
-- ⚡ **Fun Fact:** Over **1,097 font folders** archived — pure typographic gold.
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠 TECH STACK
-
-</div>
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,styledcomponents" alt="Frontend" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mongodb" alt="Backend" />
-
-### ☁️ Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode" alt="Tools" />
-
-### 🎨 Design
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,blender" alt="Design" />
+<!-- ⚡ ABOUT DASHBOARD -->
+<table style="width:100%; border:none; background:transparent; border-collapse:collapse;">
+  <tr>
+    <td width="50%" align="center" style="padding:20px;">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius:15px; border:2px solid #00F2FE;" alt="Coding Aesthetic" />
+    </td>
+    <td width="50%" style="padding:20px; color:#eaeaea; font-family:'Segoe UI',sans-serif;">
+      <h2 align="center" style="color:#00F2FE; text-shadow:0 0 15px #00F2FE;">⚡ INITIALIZING DATABANKS ⚡</h2>
+      <br/>
+      <p><b style="color:#FF007F;">IDENTITY:</b> Creative Developer & Asset Architect</p>
+      <p><b style="color:#FF007F;">DIRECTIVE:</b> Merging software with haute typography</p>
+      <p><b style="color:#FF007F;">STACK:</b> WebGL • Three.js • High-Performance Web</p>
+      <p><b style="color:#FF007F;">ARCHIVE:</b> Hosting the ultimate <b>Font_Styles</b> database</p>
+      <p><b style="color:#FF007F;">STATUS:</b> System Active • Ready for Breakthrough Projects</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -72,22 +49,12 @@
 
 <div align="center">
 
-## 📊 DYNAMIC STATS — SIDE BY SIDE
+<!-- 🛠️ TECH ARSENAL -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="30" /> TECHNOLOGY ARSENAL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="30" /></h2>
 
-</div>
-
-<div align="center">
-
-| 📈 GitHub Stats | 🔥 GitHub Streak |
-|:---:|:---:|
-| <a href="https://github.com/Ra-Studios"><img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=b829f7&text_color=eaeaea" alt="Stats" /></a> | <a href="https://github.com/Ra-Studios"><img src="https://streak-stats.demolab.com/?user=Ra-Studios&theme=tokyonight&hide_border=true&border=00f0ff&background=0d1117" alt="Streak" /></a> |
-
-</div>
-
-<div align="center">
-
-### 🗂 Top Languages
-<a href="https://github.com/Ra-Studios"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&text_color=eaeaea&title_color=00f0ff" alt="Top Languages" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite,nodejs,python,git,github,figma,ps,ai,pr,linux,ubuntu,vercel,webpack,vscode&theme=dark&perline=7" alt="Tech Stack" />
+</a>
 
 </div>
 
@@ -95,12 +62,29 @@
 
 <div align="center">
 
-## 🚀 FEATURED ASSET
+<!-- 📊 STATS DASHBOARD -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" /> LIVE SYSTEM TELEMETRY <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" /></h2>
 
-<a href="https://github.com/Ra-Studios/Font_Styles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=b829f7" alt="Font_Styles" /></a>
-
-### 🖋 Font_Styles — A Curated Typography Archive
-> Over **1,097 font folders** in a 3-column collapsible Markdown table, sorted A-Z. A living archive for designers and developers.
+<table style="width:100%; border:none; background:transparent; border-collapse:collapse;">
+  <tr>
+    <td align="center" width="50%" style="padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF007F&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%" style="padding:10px;">
+      <img src="https://streak-stats.demolab.com/?user=Ra-Studios&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF007F&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding:10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-Studios&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF007F&point=FFFFFF" alt="Activity Graph" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -108,13 +92,23 @@
 
 <div align="center">
 
-## 🔗 CONNECT ACROSS DIMENSIONS
+<!-- 💎 FEATURED ASSET -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /> FLAGSHIP RELEASE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30" /></h2>
 
-<a href="https://github.com/Ra-Studios"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
-<a href="https://twitter.com/Ra_Studios"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://discord.com/users/ra_studios"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://ra-studios.dev"><img src="https://img.shields.io/badge/Portfolio-b829f7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/ra-studios"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<table style="width:100%; border:2px solid #00FFFF; border-radius:15px; padding:25px; background-color:#0D1117; color:#FFFFFF;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ra-Studios/Font_Styles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=FF007F" alt="Font_Styles" width="100%"/>
+      </a>
+      <h3 style="color:#00FFFF; text-shadow:0 0 20px #00FFFF;">🖋️ Font_Styles Collection</h3>
+      <p style="font-size:1.05rem; line-height:1.6;">The ultimate typography repository featuring over <b style="color:#FF007F;">1,097+ free font folders</b>. Meticulously cleaned, compressed, and organized with a fully responsive A-Z directory for developers and designers.</p>
+      <a href="https://github.com/Ra-Studios/Font_Styles">
+        <img src="https://img.shields.io/badge/ACCESS_ARCHIVE-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Access Archive" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -122,14 +116,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=Thanks+for+visiting+my+universe+%E2%9C%A8&fontSize=25&fontColor=b829f7&animation=fadeIn" alt="Wave" />
+<!-- 🌐 SOCIAL CHANNELS -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" width="30" /> TRANSMISSION CHANNELS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite%20Antenna.png" width="30" /></h2>
+
+<p>
+  <a href="https://github.com/Ra-Studios"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- 🌌 FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,28,22,2,0&height=180&section=footer" width="100%"/>
+
+<br/>
 
 ```
-╔══════════════════════════════════════╗
-║  "Good design is obvious.            ║
-║   Great design is invisible."         ║
-║         — RA-STUDIOS                  ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  "Good design is obvious.  Great design is invisible."    ║
+║                                                          ║
+║              — RA-STUDIOS / CREATIVE STUDIO               ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
