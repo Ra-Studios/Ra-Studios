@@ -27,14 +27,26 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="70" />
     </td>
     <td width="85%">
-      <marquee scrollamount="3" direction="up" height="130px" style="color: #C9D1D9; font-size: 15px;">
-        <p>🔭 <b>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴:</b> Modern web experiences, interactive interfaces, and curated asset collections.</p>
+      <marquee scrollamount="4" direction="up" height="180px">
+        <p>
+          <img src="https://img.shields.io/badge/-🔭_CURRENTLY_BUILDING-00D2FF?style=for-the-badge" /> <br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=C9D1D9&vCenter=true&width=600&lines=Modern+web+experiences,+interactive+interfaces,+and+assets." />
+        </p>
         <br/>
-        <p>🌱 <b>𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴:</b> Creative coding, WebGL / Three.js, generative design, and high-performance systems.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-🌱_EXPLORING-39FF14?style=for-the-badge" /> <br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=C9D1D9&vCenter=true&width=600&lines=Creative+coding,+WebGL+/+Three.js,+and+generative+design." />
+        </p>
         <br/>
-        <p>💬 <b>𝗔𝘀𝗸 𝗠𝗲 𝗔𝗯𝗼𝘂𝘁:</b> Front-end development, UI/UX design, and typography.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-💬_ASK_ME_ABOUT-9D4EDD?style=for-the-badge" /> <br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=C9D1D9&vCenter=true&width=600&lines=Front-end+development,+UI/UX+design,+and+typography." />
+        </p>
         <br/>
-        <p>⚡ <b>𝗙𝘂𝗻 𝗙𝗮𝗰𝘁:</b> Master curator of over <b>𝟭,𝟬𝟵𝟳+ 𝗳𝗼𝗻𝘁 𝗳𝗮𝗺𝗶𝗹𝗶𝗲𝘀</b> in our open-source archives.</p>
+        <p>
+          <img src="https://img.shields.io/badge/-⚡_FUN_FACT-FF007F?style=for-the-badge" /> <br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=C9D1D9&vCenter=true&width=600&lines=Master+curator+of+1,097++font+families+in+open-source+archives." />
+        </p>
       </marquee>
     </td>
   </tr>
