@@ -15,12 +15,30 @@
 
 </div>
 
-### 🌌 About Ra-Studios
+### 🌌 𝗔𝗯𝗼𝘂𝘁 𝗥𝗮-𝗦𝘁𝘂𝗱𝗶𝗼𝘀
 
-* 🔭 **Currently Building:** Modern web experiences, interactive interfaces, and curated asset collections.
-* 🌱 **Exploring:** Creative coding, WebGL / Three.js, generative design, and high-performance design systems.
-* 💬 **Ask Me About:** Front-end development, UI/UX design, and typography.
-* ⚡ **Fun Fact:** Master curator of over **1,097+ font families** in our open-source archives.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Initializing+About+Me+Sequence...;Deploying+Creative+Assets...;Loading+Font_Styles_Archive..." />
+</div>
+
+<table style="width:100%; border:none; background-color: transparent;">
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="70" />
+    </td>
+    <td width="85%">
+      <marquee scrollamount="3" direction="up" height="130px" style="color: #C9D1D9; font-size: 15px;">
+        <p>🔭 <b>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴:</b> Modern web experiences, interactive interfaces, and curated asset collections.</p>
+        <br/>
+        <p>🌱 <b>𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴:</b> Creative coding, WebGL / Three.js, generative design, and high-performance systems.</p>
+        <br/>
+        <p>💬 <b>𝗔𝘀𝗸 𝗠𝗲 𝗔𝗯𝗼𝘂𝘁:</b> Front-end development, UI/UX design, and typography.</p>
+        <br/>
+        <p>⚡ <b>𝗙𝘂𝗻 𝗙𝗮𝗰𝘁:</b> Master curator of over <b>𝟭,𝟬𝟵𝟳+ 𝗳𝗼𝗻𝘁 𝗳𝗮𝗺𝗶𝗹𝗶𝗲𝘀</b> in our open-source archives.</p>
+      </marquee>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,22 +80,45 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Ra-Studios&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=9D4EDD&currStreakLabel=00D2FF" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/Ra-Studios">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ra-Studios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/Ra-Studios">
+    <img src="https://streak-stats.demolab.com/?user=Ra-Studios&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=9D4EDD&currStreakLabel=00D2FF" alt="GitHub Streak" height="165"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+  <a href="https://github.com/Ra-Studios">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Studios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ra-Studios">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-Studios&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D2FF&line=9D4EDD&point=FFFFFF" alt="Activity Graph" width="90%"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Release
+### 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗥𝗲𝗹𝗲𝗮𝘀𝗲
 
-> **[🖋️ Font_Styles Collection](https://github.com/Ra-Studios/Font_Styles)**  
-> *A curated archive of 1,097+ typography packages, organized alphabetically for developers and designers.*
+<div align="center">
+
+<a href="https://github.com/Ra-Studios/Font_Styles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9" alt="Font_Styles Pin"/>
+</a>
+
+<br/><br/>
+
+<marquee scrollamount="6" direction="left" width="85%" style="color: #9D4EDD;">
+  ✦ 𝕬 𝖈𝖚𝖗𝖆𝖙𝖊𝖉 𝖆𝖗𝖈𝖍𝖎𝖛𝖊 𝖔𝖋 1,097+ 𝖙𝖞𝖕𝖔𝖌𝖗𝖆𝖕𝖍𝖞 𝖕𝖆𝖈𝖐𝖆𝖌𝖊𝖘, 𝖔𝖗𝖌𝖆𝖓𝖎𝖟𝖊𝖉 𝖆𝖑𝖕𝖍𝖆𝖇𝖊𝖙𝖎𝖈𝖆𝖑𝖑𝖞 𝖋𝖔𝖗 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗𝖘 𝖆𝖓𝖉 𝖉𝖊𝖘𝖎𝖌𝖓𝖊𝖗𝖘. ✦
+</marquee>
+
+</div>
 
 ---
 
