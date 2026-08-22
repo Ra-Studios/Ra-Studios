@@ -18,7 +18,13 @@
 ### 🌌 𝗔𝗯𝗼𝘂𝘁 𝗥𝗮-𝗦𝘁𝘂𝗱𝗶𝗼𝘀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Initializing+About+Me+Sequence...;Deploying+Creative+Assets...;Loading+Font_Styles_Archive..." />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="45" alt="Flowing Water" />
+    <a href="https://github.com/Ra-Studios">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=2000&color=00D2FF&center=true&vCenter=true&width=400&lines=ABOUT+RA-STUDIOS;THE+CREATIVE+CORE;SYSTEM+INITIALIZED" alt="About Ra-Studios" />
+    </a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="45" alt="Flowing Water" />
+  </p>
 </div>
 
 <table style="width:100%; border:none; background-color: transparent;">
