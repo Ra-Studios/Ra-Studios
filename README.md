@@ -15,7 +15,7 @@
 
 </div>
 
-### 🌌 𝗔𝗯𝗼𝘂𝘁 𝗥𝗮-𝗦𝘁𝘂𝗱𝗶𝗼𝘀
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" /> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1500&color=00D2FF&center=true&vCenter=true&width=300&lines=About+Ra-Studios;About+Ra-Studios" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" /></h3>
 
 <div align="center">
   <p align="center">
