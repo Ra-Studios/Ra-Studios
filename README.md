@@ -109,7 +109,7 @@
 <div align="center">
 
 <a href="https://github.com/Ra-Studios/Font_Styles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ra-Studios&repo=Font_Styles&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400" alt="Font_Styles Pin"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&width=450&text=🖋️%20Font_Styles%20Archive&fontSize=22&fontColor=00D2FF&desc=1,097+%20Curated%20Typography%20Packages&descAlignY=75&descColor=C9D1D9&stroke=9D4EDD" alt="Font_Styles Card"/>
 </a>
 
 <br/><br/>
