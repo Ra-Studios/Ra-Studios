@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <title>Ra Studios</title>
+  <desc>A studio wordmark in warm ivory on deep ink, with a mint geometric emblem and orbital linework.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131F28"/>
+      <stop offset="1" stop-color="#0D171E"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="770" y1="20" x2="1210" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ECFB7" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#8ECFB7" stop-opacity=".04"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#surface)"/>
+    <path d="M1 1H1199V319H1V1Z" stroke="#D4E9DE" stroke-opacity=".1"/>
+    <g stroke="url(#orbit)">
+      <circle cx="1100" cy="163" r="100"/>
+      <circle cx="1100" cy="163" r="155"/>
+      <circle cx="1100" cy="163" r="210"/>
+      <circle cx="1100" cy="163" r="265"/>
+      <path d="M1100-130V455M820 163H1400"/>
+    </g>
+    <circle cx="945" cy="163" r="6" fill="#9ED8C0"/>
+    <circle cx="1100" cy="63" r="4" fill="#EEDCC3"/>
+    <circle cx="1100" cy="163" r="15" fill="#8ECFB7" fill-opacity=".08"/>
+    <circle cx="1100" cy="163" r="4" fill="#9ED8C0"/>
+    <g transform="translate(76 118)" stroke="#A6DCC6" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M0 80V0H34C56 0 62 9 62 23C62 37 54 45 34 45H0M35 45L68 80"/>
+      <path d="M86 80L117 0L148 80M99 48H135"/>
+    </g>
+    <text x="270" y="183" fill="#F4F0E8" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">RA STUDIOS</text>
+    <path d="M274 212H410" stroke="#A6DCC6" stroke-width="3"/>
+    <path d="M428 212H570" stroke="#F4F0E8" stroke-opacity=".16" stroke-width="1"/>
+    <path d="M76 281H107" stroke="#A6DCC6" stroke-opacity=".45"/>
+    <path d="M76 281V251" stroke="#A6DCC6" stroke-opacity=".45"/>
+  </g>
+</svg>
