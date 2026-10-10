@@ -23,7 +23,15 @@ My focus is on **clear interaction**, **responsive interfaces**, and **learning 
 
 ## Selected work
 
-### 01 · AI Data Analyzer
+### 01 · Sivinx Stream
+
+A desktop voice-dictation app that turns speech into text in the window you're working in. Hold a keyboard shortcut to speak, then release to paste the transcription. Supports cloud transcription models and local offline transcription.
+
+<sub>Voice dictation · Push-to-talk · Online & offline transcription</sub>
+
+[Explore the project →](https://github.com/Ra-Studios/Sivinx-Stream)
+
+### 02 · AI Data Analyzer
 
 A local data-analysis workspace for exploring datasets, forecasting trends, clustering, and classification. A React interface brings the analysis together with a Python API.
 
@@ -31,7 +39,7 @@ A local data-analysis workspace for exploring datasets, forecasting trends, clus
 
 [Explore the project →](https://github.com/Ra-Studios/AI-Data-Analyzer)
 
-### 02 · Interactive Web Dashboard
+### 03 · Interactive Web Dashboard
 
 A responsive dashboard with interactive charts, KPI cards, and a paginated data table. Includes light and dark themes, collapsible navigation, and keyboard shortcuts.
 
@@ -39,7 +47,7 @@ A responsive dashboard with interactive charts, KPI cards, and a paginated data 
 
 [Explore the project →](https://github.com/Ra-Studios/interactive-web-dasbord)
 
-### 03 · Font Styles Archive
+### 04 · Font Styles Archive
 
 An alphabetically organized collection of typography packages gathered from open-source repositories, with a searchable folder index and archive assembly instructions. The fonts remain the work of their original creators; their individual licenses apply.
 
